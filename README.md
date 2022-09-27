@@ -5,9 +5,9 @@
 ## Qiita
 日々学んだことを記事にアウトプットしています。
 ### My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/couragenki/posts.svg)](http://qiita.com/GenkiMatsubara)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/couragenki/posts.svg)](http://qiita.com/couragenki)
 ### My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/GenkiMatsubara/contributions.svg)](http://qiita.com/GenkiMatsubara)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/couragenki/contributions.svg)](http://qiita.com/couragenki)
 
 
 
