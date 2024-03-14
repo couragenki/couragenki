@@ -1,7 +1,5 @@
 # Welcome👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=couragenki)
-
 ## Qiita
 日々学んだことを記事にアウトプットしています。
 ### My Qiita posts
