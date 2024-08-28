@@ -1,25 +1,26 @@
 # Welcome👋
 
-## Qiita
-日々学んだことを記事にアウトプットしています。
-### My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/couragenki/posts.svg)](http://qiita.com/couragenki)
-### My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/couragenki/contributions.svg)](http://qiita.com/couragenki)
+## Introduction
+I'm an engineer born in 1994, originally from Nagasaki Prefecture, Japan.
 
+After gaining development experience at various companies, I'm currently the founder and CEO of Ioria Corporation.
 
+### SNS
+Twitter: https://x.com/couragenki
 
-<!--
-**GenkiMatsubara/GenkiMatsubara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linkedin: https://www.linkedin.com/in/genki-matsubara/
 
-Here are some ideas to get you started:
+## Company
+*Aeolia Inc*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://aeolia.co.jp/
+
+### Products
+*SpotsNinja*
+
+SposNinja is a social media service that personalizes and recommends hyper-local information to users.
+
+It provides value by allowing users to rediscover interesting information and unnoticed attractions in the area where they live.
+
+https://spotsninja.com/
+
