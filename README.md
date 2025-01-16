@@ -24,3 +24,5 @@ It provides value by allowing users to rediscover interesting information and un
 
 https://spotsninja.com/
 
+TV Tokyo
+[![SpotsNinja 紹介動画](https://img.youtube.com/vi/6DxUdHK4zfA/0.jpg)](https://www.youtube.com/watch?v=6DxUdHK4zfA)
